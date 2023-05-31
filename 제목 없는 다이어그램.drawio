@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T14:24:19.922Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="CTFnWX8C9yy_Sm_Nsqlz" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-31T14:25:36.643Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="HPKz8KgS1t0g5nu5yjgi" version="21.3.6" type="github">
   <diagram name="페이지-1" id="ihKB_L6L-kc_7JsDzYnF">
-    <mxGraphModel dx="1735" dy="1075" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2120" dy="1313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,7 +61,7 @@
         <mxCell id="WAhycDh5-ZonIURwyT23-24" value="Merge" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="501" y="201" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WAhycDh5-ZonIURwyT23-26" value="Dev" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WAhycDh5-ZonIURwyT23-26" value="Dev" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="90" y="661" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WAhycDh5-ZonIURwyT23-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WAhycDh5-ZonIURwyT23-4" target="WAhycDh5-ZonIURwyT23-26">
@@ -82,7 +82,7 @@
         <mxCell id="WAhycDh5-ZonIURwyT23-31" value="CI/CD" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="WAhycDh5-ZonIURwyT23-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WAhycDh5-ZonIURwyT23-32" value="Stag" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WAhycDh5-ZonIURwyT23-32" value="Stag" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="501" y="661" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WAhycDh5-ZonIURwyT23-33" value="To-Do Bot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -140,7 +140,7 @@
             <mxPoint x="430" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WAhycDh5-ZonIURwyT23-47" value="Prod" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WAhycDh5-ZonIURwyT23-47" value="Prod" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="660" y="661" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WAhycDh5-ZonIURwyT23-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WAhycDh5-ZonIURwyT23-34" target="WAhycDh5-ZonIURwyT23-47">
@@ -152,7 +152,7 @@
         <mxCell id="WAhycDh5-ZonIURwyT23-49" value="Release" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="WAhycDh5-ZonIURwyT23-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WAhycDh5-ZonIURwyT23-50" value="Release Note" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WAhycDh5-ZonIURwyT23-50" value="Release Note" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="660" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WAhycDh5-ZonIURwyT23-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WAhycDh5-ZonIURwyT23-47" target="WAhycDh5-ZonIURwyT23-50">
